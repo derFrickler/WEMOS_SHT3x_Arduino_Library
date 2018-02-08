@@ -13,6 +13,8 @@ SHT3X	KEYWORD1
 #######################################
 
 get	KEYWORD2
+readTemperature KEYWORD2
+readHumidity KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
